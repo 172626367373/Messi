@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(40, 68, 167);
+  padding: 25px;
+  font-size: large;
+  font-style: oblique;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+.title {
+	color: #1aa0da;
+}
+
+img{
+  padding-top: 20px;
+}
+.font{
+  text-size-adjust: 25px;
+}
